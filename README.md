@@ -1,6 +1,6 @@
-Ash
-Artist
-Web Designer
+.Ash
+.Artist
+.Web Designer
 
 
 ## 🌐 Socials:
