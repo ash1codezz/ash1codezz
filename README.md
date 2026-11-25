@@ -1,6 +1,4 @@
-.Ash
-.Artist
-.Web Designer
+
 
 
 ## 🌐 Socials:
