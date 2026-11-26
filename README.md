@@ -11,10 +11,7 @@
 ![](https://streak-stats.demolab.com/?user=ash1codezz&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ash1codezz&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ash1codezz&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
+#
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
@@ -22,10 +19,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
-**ash1codezz/ash1codezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+**ash1codezz/ash1codezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
